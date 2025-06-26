@@ -4,7 +4,7 @@ Criar um dashboard de vendas, com foco na organização e visualização de dado
 ## 📋 Descrição
 Projeto visando aplicar conhecimentos práticos para a criação de um dashboard de vendas do Xbox.
 
-
+![Image](https://github.com/user-attachments/assets/4ecb7e3a-de1b-4ee6-86bd-acefb1aa61ee)
 
 ### 📊 Dashboard
 Um Dashboard é uma ferramenta visual que apresenta dados e métricas importantes de forma organizada e interativa.
